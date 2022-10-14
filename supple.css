@@ -1,0 +1,17 @@
+::selection {
+  background: aquamarine;
+  color: #202;
+}
+
+:root {
+  color: aquamarine;
+  background: #202;
+}
+
+:any-link {
+  color: inherit;
+}
+
+:focus {
+  outline-color: currentColor;
+}
